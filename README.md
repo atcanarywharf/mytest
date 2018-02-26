@@ -73,6 +73,10 @@
 
 **You can see the languages identified by two different platform (MeaningCloud and Language Detection). And then you can give your feedback about the two results.**  
 
-![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/6.png)
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/6.png)  
+
+**After submitting your feedback, you can see a bar chart showing the performances of the two platform (the bar char showing feedback statistics from all the users.**  
+
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/7.png)
 
 
