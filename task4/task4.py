@@ -183,5 +183,6 @@ def write_file(n):
     f.close
    
 if __name__ == "__main__":
-   
+   if not exists('uploads'):
+       os.mkdir('uploads')
    app.run(debug = True)
