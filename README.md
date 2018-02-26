@@ -50,4 +50,11 @@
     C:\interview>cd task4
     C:\interview\task4>python task4.py
 ```
-![image](https://github.com/yuanziinlondon/off-line-interview/tree/master/readme_images/1.png)
+
+**Welcome page**
+
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/1.png)
+
+**After you have chosen text as input mode, you enter into text input page**  
+
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/2.png)
