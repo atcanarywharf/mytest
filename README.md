@@ -50,3 +50,4 @@
     C:\interview>cd task4
     C:\interview\task4>python task4.py
 ```
+![image](https://github.com/yuanziinlondon/off-line-interview/tree/master/readme_images/1.png)
