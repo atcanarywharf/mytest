@@ -59,6 +59,6 @@
 
 ![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/2.png)  
 
-**You can see the languages identified by two different platform(MeaningCloud and Language Detection). And then you can give your feedback about the two results**
+**You can see the languages identified by two different platform(MeaningCloud and Language Detection). And then you can give your feedback about the two results.**
 
 ![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/3.png)
