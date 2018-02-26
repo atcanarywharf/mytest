@@ -53,8 +53,12 @@
 
 **Welcome page**
 
-![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/1.png)
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/1.png)  
 
-**After you have chosen text as input mode, you enter into text input page**  
+**After you have chosen text as input mode, you enter into text input page and press submmit button.**  
 
-![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/2.png)
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/2.png)  
+
+**You can see the languages identified by two different platform(MeaningCloud and Language Detection). And then you can give your feedback about the two results**
+
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/3.png)
