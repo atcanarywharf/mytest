@@ -43,3 +43,10 @@
     Press any key to continue.
 ```
 ### Task 4
+- **Description**：Develop a Flask project. In essence, implement a website allowing users to input texts, upload text files and displaying detected results. This webside can also investigate other language detection APIs (e.g. Language Detection), and compare the result to the same task of MeaningCloud by collecting users'feedback. It can also visualise the comparison by bar chart.
+
+- **Running Example**:   
+```
+    C:\interview>cd task4
+    C:\interview\task4>python task4.py
+```
