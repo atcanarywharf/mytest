@@ -24,4 +24,22 @@
     English
 ```
 ### Task 3
+- **Description**：Write a bash script to iterate your Python program in task 2 for detecting language of a directory of text files.
+
+- **Running from command line**:  
+```
+    C:\interview>task3.sh foldername/
+```
+
+- **Running Example**:  
+```
+    C:\interview>task3.sh input/
+    input//Chinese.txt:
+    Mandarin Chinese
+    input//English.txt:
+    English
+    input//Spanish.txt:
+    Spanish
+    Press any key to continue.
+```
 ### Task 4
