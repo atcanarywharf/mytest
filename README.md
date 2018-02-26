@@ -55,7 +55,7 @@
 
 ![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/1.png)  
 
-**After you have chosen text as input mode, you enter into text input page and press submmit button.**  
+**If you have chosen text as input mode, you will enter into text input page and press submmit button.**  
 
 ![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/2.png)  
 
@@ -63,6 +63,10 @@
 
 ![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/3.png)  
 
-**After submmiting your feedback, you can see a bar chart showing the performances of the two platform (the bar char showing feedback statistics from all the users.**  
+**After submitting your feedback, you can see a bar chart showing the performances of the two platform (the bar char showing feedback statistics from all the users.**  
 
-![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/4.png)
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/4.png)  
+
+**If you have chosen upload file as input mode, you will enter into upload file page to select a file from local directory and press Upload button.**  
+
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/5.png)
