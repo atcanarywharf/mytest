@@ -69,4 +69,10 @@
 
 **If you have chosen upload file as input mode, you will enter into upload file page to select a file from local directory and press Upload button.**  
 
-![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/5.png)
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/5.png)  
+
+**You can see the languages identified by two different platform (MeaningCloud and Language Detection). And then you can give your feedback about the two results.**  
+
+![image](https://github.com/yuanziinlondon/off-line-interview/blob/master/readme_images/6.png)
+
+
